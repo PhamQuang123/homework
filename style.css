@@ -1,0 +1,178 @@
+/* * {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+} */
+/* .container {
+    width: 600px;
+    height: 233px;
+    border: 1px solid black;
+}
+.header-item {
+    background-color:#e9f2ff;
+    padding: 10px;
+}
+.icon-header {
+    margin-left: 430px;
+}
+.content-item {
+    padding: 10px;
+}
+.content-item span {
+    color: #e44689;
+}
+.header-item-2 {
+    padding: 20px 10px;
+    border-top: 1px solid black;
+    border-bottom: 1px solid black;
+}
+.header-item-3 {
+    padding: 20px 10px;
+    /* border-bottom: 1px solid black; */
+/* }
+
+ex8
+.box {
+    margin-top: 20px; 
+    margin-left: 10px;
+}
+.box .button-item {
+    margin-left: 10px;
+    width: 400px;
+    height: 45px; 
+    text-align: left; 
+    margin-top: 10px; 
+    padding-left: 10px;
+    border-radius: 5px;
+}
+.box .button-item .number {
+    width: 30px;
+    height: 20px;
+    /* border: 1px solid black; */
+    /* color: #e9f2ff;
+    background-color: blue ;
+    display: inline-block;
+    text-align: center;
+    margin-left: 250px;
+    border-radius: 50%;
+    padding-top: 3px;
+}
+.box .button-item p {
+    padding-left: 15px;
+}
+.box-2 {
+
+} */ 
+
+/* ex6 */
+
+/* .container {
+    border: 1px solid lightblue;
+    width: 400px;
+    margin: 20px;
+  }
+.item {
+    border: 1px solid black;
+    padding: 10px 20px;
+    margin-top: -1px;
+}
+.item div span {
+    background-color: aqua;
+    margin-left: 220px;
+    display: inline-block;
+    width: 30px;
+    height: 20px;
+    text-align: center;
+    color: white;
+    border-radius: 10px;
+    padding-top: 2px;
+} */
+
+/* Homework */
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box 
+}
+.container-01 {
+    width: 700px;
+    height: 75px;
+    margin-left: 20px;
+    background-color: burlywood;
+    border-left: 5px solid brown;
+    padding: 10px 0 10px 15px;
+}
+.container-01 span {
+    color: hotpink;
+    font-size: 14px;
+}
+.container-02 {
+    width: 700px;
+    height: 160px;
+    margin: 20px;
+    border: 1px solid black;
+    border-radius: 5px;
+}
+.container-02 .bt-item-01 {
+    background-color: rgb(232, 86, 86);
+    color: white;
+    width: 200px;
+    height: 35px;
+    margin: 20px;
+    border: none;
+    border-radius: 5px;
+}
+.container-02 .bt-item-02 {
+    width: 700px;
+    height: 35px;
+    margin: 0 -1px;
+    text-align: left;
+    padding-left: 13px;
+}
+.container-02 .bt-item-02 .icon-01 {
+    margin-left: 580px;
+}
+.container-02 .bt-item-02 .icon-02 {
+    margin-left: 15px;
+}
+.container-02 .bt-item-03 {
+    width: 700px;
+    height: 70px;
+    
+    background-color: rgb(240, 238, 238);
+    border: 1px solid black;
+    margin: -1px;
+    border-radius:0px 0px 5px 5px;
+    padding: 20px 10px;
+}
+.container-02 .bt-item-03 .item-03 {
+    color: brown;
+}
+.container-02 .bt-item-03 .item-04 {
+    color: blueviolet;
+}
+.container-02 .bt-item-03 .item-05 {
+    color: rgb(96, 96, 232);
+}
+
+/* Ex-10 */
+.box {
+    width: 800px;
+    height: 1200px;
+    margin: 20px;
+    border: 1px solid black;
+    border-radius: 100% 100% 5% 5%;
+    /* text-align: center; */
+}
+.box .box-item-1 {
+    margin-left: 123px;
+    margin-top: 125px;
+    border-radius: 90% 90% 5% 5%;
+    width: 70%;
+    height: 650px;
+}
+.box .box-item-2 {
+    font-size: 30px;
+    margin-top: 40px;
+    margin-left: 123px;
+}
